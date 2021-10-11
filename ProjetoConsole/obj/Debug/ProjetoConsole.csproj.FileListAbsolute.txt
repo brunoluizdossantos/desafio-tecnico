@@ -1,0 +1,7 @@
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\bin\Debug\ProjetoConsole.exe.config
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\bin\Debug\ProjetoConsole.exe
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\bin\Debug\ProjetoConsole.pdb
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\obj\Debug\ProjetoConsole.exe
+C:\Users\bruno\source\repos\DesafioTecnicoCompleto\ProjetoConsole\obj\Debug\ProjetoConsole.pdb
